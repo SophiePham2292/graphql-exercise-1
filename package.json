@@ -1,0 +1,13 @@
+{
+  "name": "graphql-exercise-1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/SophiePham2292/graphql-exercise-1.git",
+  "author": "Sophie Pham <choe.2292@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-graphql": "^0.7.1",
+    "graphql": "^14.2.1"
+  }
+}
